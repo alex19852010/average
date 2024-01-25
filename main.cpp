@@ -36,6 +36,5 @@ int main()
    double result = average(array, size);
    cout << "average: " << result << endl;
 
-
    return 0;
 }
